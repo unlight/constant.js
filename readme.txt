@@ -1,7 +1,9 @@
-# CONSTANT.JS
+CONSTANT.JS
+===========
 Constants for your project.
 
-## USAGE
+USAGE
+=====
 var defined = require('constant').defined;
 var define = require('constant').define;
 var constant = require('constant').constant;
