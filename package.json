@@ -1,17 +1,19 @@
 {
 	"name": "constant",
-	"version": "1.0",
 	"description": "Constants for your project.",
-	"keywords": [
-		"constants",
-		"const"
-	],
+	"version": "1.0.1",
 	"author": {
 		"name": "S",
 		"url": "http://rv-home.ru"
 	},
+	"main": "./constant.js",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/unlight/constant.js.git"
-	}
+	},
+	"dependencies": {},
+	"keywords": [
+		"constants",
+		"const"
+	]
 }
